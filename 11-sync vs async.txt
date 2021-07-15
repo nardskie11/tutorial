@@ -1,0 +1,3 @@
+sync                                                        async
+start and read line by line                                 start the task then offload the processs but starts another task right away
+ 
